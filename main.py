@@ -72,6 +72,14 @@ the 160-character gate, and compact, which also helps the
 published tie-break (fewer bytes wins an exact tie on judge
 win rate). Line and rationale kept unchanged.
 
+Revision (second pass): re-checked the line against the
+brief — the vow frame ("I take you… to have and to hold…
+until… do us part") is the ceremony's own, every term in it
+is machine (co-processor, Wi-Fi, airplane mode, factory
+reset), the punch lands in the last words, and 135
+characters sits inside the 160 gate. Line and rationale kept
+unchanged.
+
 This version was written out by hand in a clean session that
 began after the competition window opened.
 """
